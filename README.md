@@ -1,6 +1,6 @@
 # Analysis of fake news sites and viral posts, 2016 - 2018
 
-This repository contains data and analysis supporting the BuzzFeed News article, [In Spite Of Its Efforts, Facebook Is Still The Home Of Hugely Viral Fake News](https://www.buzzfeednews.com/article/craigsilverman/facebook-fake-news-hits-2018) published December 28, 2018. Please read that article, which contains important context and methodological details, before proceding.
+This repository contains data and analysis supporting the BuzzFeed News article, [In Spite Of Its Efforts, Facebook Is Still The Home Of Hugely Viral Fake News](https://www.buzzfeednews.com/article/craigsilverman/facebook-fake-news-hits-2018) published December 28, 2018. Please read that article, which contains important context and methodological details, before proceeding.
 
 ## Data
 
